@@ -14,6 +14,7 @@ mod HelloStarknet {
         Helloxxx(caller, message);
         Helloxxx(caller, message);
         Helloxxx(caller, message);
+        Helloxxx(caller, message);
     }
 
 }
